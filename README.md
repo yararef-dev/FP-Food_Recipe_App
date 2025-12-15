@@ -4,7 +4,7 @@
 تطبيق لعرض وصفات الطعام بطريقة سهلة وجميلة 
 
  صفحات التطبيق
--الرئيسية (Home): عرض كل الوصفات مع البحث السريع 
+-الرئيسية (Home): عرض كل الوصفات مع خيار البحث السريع 
 - البحث (Search): البحث عن وصفات بالاسم أو المكونات  
 -المفضلة (Favorites): عرض وحفظ الوصفات المفضلة
 -الفئات (Categories): عرض فئات الطعام وتصفح وصفات كل فئة  
@@ -23,5 +23,6 @@
 <img width="326" height="542" alt="7" src="https://github.com/user-attachments/assets/64e0b35b-50a9-409e-91cf-b114346e7c74" />
 <img width="328" height="537" alt="6" src="https://github.com/user-attachments/assets/defd025e-b8a8-4e42-a175-6ae833df2da7" />
 <img width="362" height="601" alt="5" src="https://github.com/user-attachments/assets/82103345-5ad1-4998-bc57-2492bbaf9058" />
+
 
 
